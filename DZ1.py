@@ -30,9 +30,7 @@ print(returns_the_total(kiwi=8, mango=15, garnet=10))
 orig_expenses = [100, 125, -90, 345, 655, -1, 0, 200]
 expenses = [ i if i > 0 else 0 for i in orig_expenses]
 sum(expenses)
-orig_expenses = [100, 125, -90, 345, 655, -1, 0, 200]
-expenses = [ i if i > 0 else 0 for i in orig_expenses]
-sum(expenses)
+
 1425
 
 ##Условие 4:
